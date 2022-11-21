@@ -1,0 +1,51 @@
+
+.container-1{
+    margin: 30px;
+   
+    
+  }
+  .container-2{
+    margin: 30px;
+    height: 300px;
+    border: 1px solid;
+    border-color: black;
+  }
+  td{
+    border: 1px solid;
+  }
+  #Red{
+    background-color: red;
+  }
+  #blue{
+    background-color: blue;
+  }
+  #brown{
+    background-color: brown;
+  }
+  #green{
+    background-color: green;
+  }
+  #Orange{
+    background-color: orange;
+  }
+  #black{
+    background-color: black;
+  }
+  #White{
+    background-color: white;
+  }
+  #Pink{
+   background-color: pink;
+  }
+  #Yellow{
+  background-color: yellow;
+  }
+  #Purple{
+  background-color: purple;
+  }
+  #cyan{
+    background-color: cyan;
+  }
+  #grey{
+    background-color: gray ;
+  }
