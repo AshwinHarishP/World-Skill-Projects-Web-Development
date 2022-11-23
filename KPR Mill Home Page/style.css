@@ -1,0 +1,42 @@
+.Top-details-common{
+    font-family:"Roboto";
+    color: black;
+    font-size:17px;
+    margin:22px;
+    font-weight:bolder;
+    
+}
+.Top-content-right{
+    margin-top: -44px;
+}
+.Top-content-left{
+    margin-top: -45px;
+}
+.Card-container{
+    background-color: black;
+    border-radius: 8px;
+    margin:240px;
+    margin-top:40px;
+    margin-bottom: 15px;
+    height:5vh;
+    width:35vw;
+    margin-left:525px;
+}
+.image-page{
+    
+    width:200px
+}
+.Mill-image{
+    margin-top:20px;
+}
+.paragraphs{
+    background-clip :text;
+    background-image:radial-gradient(closest-side, #fff 100%, transparent 0);
+    background-position:50%;
+    background-repeat:no-repeat;
+    background-size:200px 200px;
+    transition: all .7s cubic-bezier(.20,1,.22,1);
+    margin-top:20px;    
+    font-family:"roboto";
+    
+}
